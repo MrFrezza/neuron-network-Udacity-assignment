@@ -15,5 +15,4 @@ conda create --name dlnd python=3
 
 conda install numpy matplotlib pandas jupyter notebook
 
-jupyter notebook
 ```
